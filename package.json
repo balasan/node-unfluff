@@ -25,7 +25,6 @@
   },
   "main": "lib/unfluff.js",
   "directories": {
-    "bin": "bin",
     "lib": "lib",
     "test": "test"
   },
